@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel: BD Road Risk AI",
+  "description": "A predictive AI dashboard visualizing temporal road accident risks in Bangladesh with dynamic police deployment strategies.",
+  "requestFramePermissions": []
+}
